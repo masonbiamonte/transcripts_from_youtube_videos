@@ -1,0 +1,5 @@
+python_docx==0.8.11
+requests_html==0.10.0
+youtube_transcript_api==0.4.1
+beautifulsoup4==4.9.3
+docx==0.2.4
