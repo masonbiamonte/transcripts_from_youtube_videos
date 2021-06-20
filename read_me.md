@@ -1,6 +1,6 @@
 # Italian Language Transcript Generator from YouTube Video URLs *(Generatore automatico di trascrizioni in lingua italiana dagli URL dei video di YouTube)*
 
-This project streamlines the process of downloading and saving Italian language transcripts, along with their English translations, using the[YouTubeTranscriptApi](https://pypi.org/project/youtube-transcript-api/) in `.docx` format. No major conceptual contributions were made in the writing of this code (as of the June 19, 2021 version @ 6:07 PM CDT). That is, this code implements the API, cleans up the text data and saves it Word documents. The idea behind the project is to create a tool for language learners. 
+This project streamlines the process of downloading and saving Italian language transcripts, along with their English translations, using the [YouTubeTranscriptApi](https://pypi.org/project/youtube-transcript-api/) in `.docx` format. No major conceptual contributions were made in the writing of this code (as of the June 19, 2021 version @ 6:07 PM CDT). That is, this code implements the API, cleans up the text data and saves it Word documents. The idea behind the project is to create a tool for language learners. 
 
 ## Installation
 
